@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\lab1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{711DCD6C-DBD1-4F82-B309-80E7C0E65DAD}|lab1.vcxproj|C:\\Users\\User\\source\\repos\\lab1\\lab1.rc||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{711DCD6C-DBD1-4F82-B309-80E7C0E65DAD}|lab1.vcxproj|solutionrelative:lab1.rc||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{711DCD6C-DBD1-4F82-B309-80E7C0E65DAD}|lab1.vcxproj|C:\\Users\\User\\source\\repos\\lab1\\lab1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{711DCD6C-DBD1-4F82-B309-80E7C0E65DAD}|lab1.vcxproj|solutionrelative:lab1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{711DCD6C-DBD1-4F82-B309-80E7C0E65DAD}|lab1.vcxproj|C:\\Users\\User\\source\\repos\\lab1\\Resource.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{711DCD6C-DBD1-4F82-B309-80E7C0E65DAD}|lab1.vcxproj|solutionrelative:Resource.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Resource.h",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\lab1\\Resource.h",
+              "RelativeDocumentMoniker": "Resource.h",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\lab1\\Resource.h",
+              "RelativeToolTip": "Resource.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-22T01:27:32.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "lab1.rc",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\lab1\\lab1.rc",
+              "RelativeDocumentMoniker": "lab1.rc",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\lab1\\lab1.rc",
+              "RelativeToolTip": "lab1.rc",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAAAE8AAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-04-22T01:22:50.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "lab1.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\lab1\\lab1.cpp",
+              "RelativeDocumentMoniker": "lab1.cpp",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\lab1\\lab1.cpp",
+              "RelativeToolTip": "lab1.cpp",
+              "ViewState": "AQIAAO0AAAAAAAAAAAAAAPwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-22T00:58:24.86Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
